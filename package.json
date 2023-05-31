@@ -46,7 +46,7 @@
     "listr": "^0.14.3",
     "prompts": "^2.4.1",
     "rimraf": "^3.0.2",
-    "sharp": "^0.29.1"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.9.2",
